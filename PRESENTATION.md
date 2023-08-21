@@ -8,16 +8,28 @@ paginate: true
 
 ---
 
+## Agenda
+
+1. **Introduction**
+   1. Sharing a Story
+   2. The Current Challenge
+2. **DevTools Recorder Benefits**
+   1. Simplifying Test Creation with DevTools Recorder
+   2. Enhancing Debugging with DevTools Recorder
+   3. Integration & Extensibility
+3. **Demo**
+
+---
+
 ## Introduction
 
-- Who am I?
+- **Who am I?**
   - Co-Founder of GeoSTQB
   - Founder of Owloops
   - QA/DevOps Engineer at Toptal
-- Recent Achievements:
+- **Recent Achievements:**
   - Interviewed 170+ QA engineers worldwide
   - Created AI Printed Art and the Georgian programming language, Ena
-- My Personal Website: <https://papu.omg.lol>
 
 ---
 
@@ -85,10 +97,19 @@ In our ever-evolving digital landscape, tools like Chrome DevTools Recorder enab
 
 ---
 
+## Thank You
+
+For further queries or collaboration:
+
+- **Website**: <https://papu.omg.lol>
+- **Email**: <pgagnidze@pm.me>
+
+---
+<!-- 
 ## Bonus: WebDriver BiDi
 
 - **Bi-directional Communication**: Efficient automation
 - **Cross-Browser Flexibility**: Write tests using various tools and browsers
 - **Console Access**: Ensure error-free web page loading
 
----
+--- -->

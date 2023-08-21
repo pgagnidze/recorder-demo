@@ -1,0 +1,89 @@
+[
+  {
+    "name": "order-a-coffee",
+    "record": {
+      "id": "local",
+      "logs": [
+        {
+          "data": {},
+          "action": "message",
+          "status": "starting",
+          "message": "Starting a new bird",
+          "time": "2023-08-21T09:35:57.542Z"
+        },
+        {
+          "data": {},
+          "action": "set-viewport",
+          "status": "running",
+          "message": "info: Setting viewport width: 368 height: 546",
+          "time": "2023-08-21T09:35:58.054Z"
+        },
+        {
+          "data": {},
+          "action": "goto",
+          "status": "running",
+          "message": "info: Loading https://coffee-cart-two.vercel.app/",
+          "time": "2023-08-21T09:35:58.057Z"
+        },
+        {
+          "data": {},
+          "action": "click",
+          "status": "running",
+          "message": "info:  clicking [data-test=Espresso]...",
+          "time": "2023-08-21T09:35:58.621Z"
+        },
+        {
+          "data": {},
+          "action": "click",
+          "status": "running",
+          "message": "info:  clicking [data-test=Mocha]...",
+          "time": "2023-08-21T09:35:58.755Z"
+        },
+        {
+          "data": {},
+          "action": "click",
+          "status": "running",
+          "message": "info:  clicking [data-test=checkout]...",
+          "time": "2023-08-21T09:35:58.802Z"
+        },
+        {
+          "data": {},
+          "action": "input",
+          "status": "running",
+          "message": "info: Typing jec at #name...",
+          "time": "2023-08-21T09:35:58.841Z"
+        },
+        {
+          "data": {},
+          "action": "tab",
+          "status": "running",
+          "message": "info:  pressing tab key",
+          "time": "2023-08-21T09:35:59.181Z"
+        },
+        {
+          "data": {},
+          "action": "input",
+          "status": "running",
+          "message": "info: Typing jec@test.com at #email...",
+          "time": "2023-08-21T09:35:59.184Z"
+        },
+        {
+          "data": {},
+          "action": "click",
+          "status": "running",
+          "message": "info:  clicking #promotion-label...",
+          "time": "2023-08-21T09:36:00.467Z"
+        },
+        {
+          "data": {},
+          "action": "click",
+          "status": "running",
+          "message": "info:  clicking #submit-payment...",
+          "time": "2023-08-21T09:36:00.504Z"
+        }
+      ],
+      "status": "running",
+      "credits_used": 0
+    }
+  }
+]

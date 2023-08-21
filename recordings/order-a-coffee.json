@@ -12,11 +12,11 @@
     },
     {
       "type": "navigate",
-      "url": "https://coffee-cart.netlify.app/",
+      "url": "https://coffee-cart-two.vercel.app/",
       "assertedEvents": [
         {
           "type": "navigation",
-          "url": "https://coffee-cart.netlify.app/",
+          "url": "https://coffee-cart-two.vercel.app/",
           "title": "Coffee cart"
         }
       ]

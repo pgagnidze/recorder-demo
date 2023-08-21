@@ -7,6 +7,7 @@
   "scripts": {
     "start": "node src/index.js",
     "start-cloud": "node ./src/index-cloud.js",
+    "flybird": "flybird ./fly_recordings/*.json",
     "replay": "replay --extension ./src/screenshot-ext.js ./recordings/*.json",
     "replay-cloud": "replay --extension ./src/screenshot-cloud-ext.js ./recordings/*.json",
     "replay-one": "replay ./recordings/order-a-coffee.json",
@@ -24,6 +25,7 @@
   "homepage": "https://github.com/jecfish/recorder-demo#readme",
   "dependencies": {
     "@google-cloud/storage": "^6.5.2",
+    "@owloops/flybird": "^1.1.9",
     "@puppeteer/replay": "^2.11.1"
   },
   "peerDependencies": {

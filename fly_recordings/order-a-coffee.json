@@ -1,0 +1,94 @@
+[
+  {
+    "action": "set-viewport",
+    "options": {
+      "width": 368,
+      "height": 546
+    }
+  },
+  {
+    "action": "goto",
+    "options": {
+      "url": "https://coffee-cart-two.vercel.app/"
+    }
+  },
+  {
+    "action": "click",
+    "options": {
+      "querySelector": "[data-test=Espresso]",
+      "rightClick": false,
+      "preferredSelector": "querySelector",
+      "ariaSelector": "aria/Espresso",
+      "offsetX": 171.40187072753906,
+      "offsetY": 169.0280532836914
+    }
+  },
+  {
+    "action": "click",
+    "options": {
+      "querySelector": "[data-test=Mocha]",
+      "rightClick": false,
+      "preferredSelector": "querySelector",
+      "ariaSelector": "aria/Mocha",
+      "offsetX": 165.40187072753906,
+      "offsetY": 108.85617065429688
+    }
+  },
+  {
+    "action": "click",
+    "options": {
+      "querySelector": "[data-test=checkout]",
+      "rightClick": false,
+      "preferredSelector": "querySelector",
+      "ariaSelector": "aria/Proceed to checkout",
+      "offsetX": 124.1875,
+      "offsetY": 18.796875
+    }
+  },
+  {
+    "action": "input",
+    "options": {
+      "querySelector": "#name",
+      "preferredSelector": "querySelector",
+      "type": "input",
+      "value": "jec",
+      "ariaSelector": "aria/Name"
+    }
+  },
+  {
+    "action": "tab",
+    "options": {}
+  },
+  {
+    "action": "input",
+    "options": {
+      "querySelector": "#email",
+      "preferredSelector": "querySelector",
+      "type": "input",
+      "value": "jec@test.com",
+      "ariaSelector": "aria/Email"
+    }
+  },
+  {
+    "action": "click",
+    "options": {
+      "querySelector": "#promotion-label",
+      "rightClick": false,
+      "preferredSelector": "querySelector",
+      "ariaSelector": "aria/Promotion message",
+      "offsetX": 161,
+      "offsetY": 31.8203125
+    }
+  },
+  {
+    "action": "click",
+    "options": {
+      "querySelector": "#submit-payment",
+      "rightClick": false,
+      "preferredSelector": "querySelector",
+      "ariaSelector": "aria/Submit",
+      "offsetX": 19.3515625,
+      "offsetY": 11.4296875
+    }
+  }
+]

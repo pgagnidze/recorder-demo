@@ -66,6 +66,7 @@ paginate: true
 - Preconditions: Activate the recorder panel
 - Demo website: <https://coffee-cart-two.vercel.app/>
 - CLI tool: Run tests locally (optional)
+- Code: <https://github.com/pgagnidze/recorder-demo>
 
 ---
 

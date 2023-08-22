@@ -32,13 +32,8 @@ paginate: true
 
 - Joining a banking institution: Encountered outdated test framework
 - Modernization efforts: Ran into maintenance challenges
-- The power of Google Chrome Recorder: A wish during testing challenges
-
-## The Current Challenge
-
-- Need for better tooling across multiple projects
 - The recurring cycle: Build, Cover, Refactor, Fail, Repeat
-- Tool utility: Not for complex features, but to save time
+- The power of Google Chrome Recorder: A wish during testing challenges
 
 ---
 

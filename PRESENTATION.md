@@ -4,6 +4,12 @@ theme: rose-pine-moon
 paginate: true
 ---
 
+<style>
+  p, li {
+      font-size: 24px;
+  }
+</style>
+
 # Test Automation Made Simple with Chrome DevTools Recorder
 
 ---
@@ -21,6 +27,8 @@ paginate: true
 ---
 
 ## Sharing a Story
+
+![bg right](./assets/bank.png)
 
 - Joining a banking institution: Encountered outdated test framework
 - Modernization efforts: Ran into maintenance challenges
@@ -54,6 +62,8 @@ paginate: true
 ---
 
 ## Thank You
+
+![bg left](./assets/nature.png)
 
 For further queries or collaboration:
 

@@ -105,3 +105,5 @@ dist
 
 # Mine
 _screenshots
+
+.DS_Store
